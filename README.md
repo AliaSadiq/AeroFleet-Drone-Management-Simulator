@@ -1,5 +1,4 @@
 # AeroFleet-Drone-Management-Simulator
-# AeroFleet-Drone-Management-Simulator
 
 A console-based drone fleet management simulation built in C++. This project uses object-oriented programming principles to allow users to register, control, and monitor a fleet of surveillance and attack drones in real time.
 ---
