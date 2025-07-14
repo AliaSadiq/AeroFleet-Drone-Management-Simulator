@@ -1,8 +1,7 @@
 # AeroFleet-Drone-Management-Simulator
 # AeroFleet-Drone-Management-Simulator
 
-A console-based drone fleet management simulation built in C++. This project uses object-oriented programming principles to allow users to register, control, and monitor a fleet of surveillance and attack drones in real time. Created as a showcase project for NASTP.
-
+A console-based drone fleet management simulation built in C++. This project uses object-oriented programming principles to allow users to register, control, and monitor a fleet of surveillance and attack drones in real time.
 ---
 
 ------------------------------------------------------------
@@ -137,4 +136,3 @@ This project is structured using best practices for C++:
 - Object-oriented programming with clear inheritance
 - Easy to compile, understand, and extend
 
-It is ready for demonstration and submission for NASTP or similar technical evaluations.
